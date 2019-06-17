@@ -1,6 +1,7 @@
 # Make your shoe class here!
 
-class
+class Shoe
+  attr_accessor :
 
 
 
